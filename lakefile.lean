@@ -10,5 +10,5 @@ package mil where
 @[default_target]
 lean_lib MIL where
 
-require mathlib from git "git@github.com:hjy1/mathlib4.git"@"master"
+require mathlib from git "https://github.com/hjy1/mathlib4.git"@"master"
 
